@@ -1,0 +1,218 @@
+body{ margin: 10px 5px 5px 5px;}
+.body1{
+  background-image: url(vegetables.jpg);
+  background-repeat: no-repeat;
+  background-color:rgb(255, 250, 250);
+  background-size: 90% 90%;
+  background-position: center ;
+  padding-left: 200px;
+  padding-top: 200px;
+  padding-right: 200px;
+  padding-bottom: 200px;
+  margin: 0px 0px 0px 0px;}
+.logo{
+  height: 70px;
+  width: 100px;
+  position: absolute;
+  text-align: center;
+  margin:5px 0px 0px 550px;}
+ .logo1{
+  height: 50px;
+  width: 60px;
+  text-align: center;
+  margin:5px 0px 0px 0px;
+ }
+.conteiner{
+  margin: 0px 0px 0px 0px;
+  padding: 20px 0px 0px 0px;
+  background-color:black;
+  color:rgb(104, 231, 0);
+  display: flex;
+  flex-direction: row;
+  height: 45px ;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  text-align: center;
+  border: 2px solid;
+  border-radius: 10px;}
+  .conteiner2{
+    margin: 0px 0px 0px 0px;
+    padding: 20px 0px 0px 0px;
+    display: flex;
+    flex-direction: row;
+    height: 45px ;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    text-align: center}
+
+.conteiner1{
+  margin: 20px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  height: 180px;
+  width: 100%;
+  justify-content: space-evenly;
+  align-items: flex-start;}
+
+.iten{  
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  height: 100px;
+  width: 200px;
+  background-color: black;
+  border: 5px solid black;
+  border-radius: 20px;
+  color:rgb(188, 236, 55);}
+
+.iten1{  
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  height: 100px;
+  width: 200px;
+  background-color: black;
+  border: 5px solid black;
+  border-radius: 20px;
+  color:rgb(188, 236, 55);}
+
+.iten2{  
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  height: 100px;
+  width: 200px;
+  background-color: black;
+  border: 5px solid black;
+  border-radius: 20px;
+  color:rgb(188, 236, 55);}
+
+.iten3{  
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  height: 100px;
+  width: 200px;
+  background-color: black;
+  border: 5px solid black;
+  border-radius: 20px;
+  color:rgb(188, 236, 55);}
+
+.tituloprincipal{
+  margin: 20px 0px 0px 660px;
+  padding: 10px 0px 0px 0px;
+  height: 50px;
+  width: 500px;
+  background-color:black;
+  color:rgb(188, 236, 55);
+  border: 5px solid color:black;
+  border-radius: 10px;
+  text-align: center;
+}
+.titulo1{
+  margin: 10px 0px 0px 660px;
+  padding: 20px 0px 0px 0px;
+  height: 50px;
+  width: 500px;
+  background-color:black;
+  color:rgb(188, 236, 55);
+  border-color:black;
+  border: 5px solid color:black;
+  border-radius: 10px;
+  text-align: center;}
+.p1{
+  margin: 20px 0px 0px 580px;
+  padding: 0px 0px 0px 0px;
+  height: 60px;
+  width: 660px;
+  border: 5px solid color:black;
+  border-radius: 10px;
+  text-align: center;}
+.p2{
+  margin: 20px 0px 0px 580px;
+  padding: 0px 0px 0px 0px;
+  height: 80px;
+  width: 660px;
+  border-color:black;
+  border: 5px solid color:black;
+  border-radius: 10px;
+  text-align: center;}
+.titulo2{
+  margin: 10px 0px 0px 660px;
+  padding: 20px 0px 0px 0px;
+  height: 50px;
+  width: 500px;
+  background-color:black;
+  color:rgb(188, 236, 55);
+  border-color:black;
+  border: 5px solid color:black;
+  border-radius: 10px;
+  text-align: center;}
+.div1{  
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  height:160px;
+  width: 370px;
+  text-align: center;
+  border-color:black;
+  border: 5px solid color;
+  border-radius: 20px;
+  background-color:black;
+  color:rgb(188, 236, 55)}
+.div2{ 
+  margin: 0px 0px 0px 120px;
+  padding: 30px 0px 0px 0px;
+  height: 300px;
+  width: 300px;
+  text-align: center;
+  bottom: 400px;
+  position: absolute;}
+  .foto{
+  padding: 0px 0px 0px 0px;
+  margin: 15px 0px 0px 90px;
+  height: 400px;
+  width: 800px; 
+  }
+.foto1{
+  padding: 0px 0px 0px 0px;
+  margin: 15px 0px 0px 90px;
+  height: 400px;
+  width: 800px; }
+.footer1{ 
+  padding: 4px 0px 0px 0px; 
+  margin: 15px 0px 0px 0px;
+  height: 45px;
+  width: 100%;
+  background-color:black;
+  color:rgb(188, 236, 55);
+}
+.title-h1{ 
+  font-family: 'Sriracha', cursive;
+  text-align: center;
+  margin: 0px 0px 0px 570px;
+  padding: 0px 0px 0px 0px;
+  height: 50px;
+  width: 380px;
+  background-color: black;
+  border: 5px solid black;
+  border-radius: 20px;
+  color:rgb(188, 236, 55);}
+
+.main-h2 { 
+  margin: auto ;
+  text-align:center;
+  width: 350px;;
+  color:black;
+  font-size: 0.9em ;}
+
+.table1{  
+  margin: 20px 0px 20px 520px;
+  padding: 10px 0px 0px 0px;
+  background-color:black;
+  color:rgb(104, 231, 0);
+  display: flex;
+  flex-direction: row;
+  height: 470px;
+  width: 770px;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  text-align: center;
+  border: 2px solid;
+  border-radius: 10px;}
